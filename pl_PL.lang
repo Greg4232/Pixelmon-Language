@@ -3700,14 +3700,14 @@ pixelmon.command.reload.error.npcs=Cannot reload NPC data!
 pixelmon.command.reload.done=NPC and shop item data reloaded.
 
 //Other
-pixelmon.drops.fullinventory=Your inventory is full! %s was dropped on the ground!
-pixelmon.drops.single=You received a %s!
-pixelmon.drops.singlean=You received an %s!
-pixelmon.drops.singlenoa=You received %s!
-pixelmon.drops.plural=You received %d %ss!
-pixelmon.drops.plural2=You received %d %s!
-pixelmon.drops.plurales=You received %d %ses!
-pixelmon.drops.pluralruby=You received %d Rubies!
+pixelmon.drops.fullinventory=Twój inwentarz jest pełny! %s został rzucony na ziemię!
+pixelmon.drops.single=Otrzymujesz %s!
+pixelmon.drops.singlean=Otrzymujesz %s!
+pixelmon.drops.singlenoa=Otrzymujesz %s!
+pixelmon.drops.plural=Otrzymujesz %d %s!
+pixelmon.drops.plural2=Otrzymujesz %d %s!
+pixelmon.drops.plurales=Otrzymujesz %d %s!
+pixelmon.drops.pluralruby=Otrzymujesz %d Rubinów!
 
 pixelmon.interaction.helditem=%s was given the %s.
 pixelmon.interaction.hprestore=%s's HP was restored.
@@ -4234,8 +4234,8 @@ gui.pixelmonspawner.bossratio=Boss Ratio
 gui.pixelmonspawner.aggression=Aggression
 gui.pixelmonspawner.spawnlocation=Spawn Location
 
-gui.creativeinv.fainted=Fainted
-gui.creativeinv.hp=HP
+gui.creativeinv.fainted=Omdlony
+gui.creativeinv.hp=PŻ
 
 gui.trainereditor.edit=Edit
 gui.trainereditor.more=More
@@ -4325,33 +4325,33 @@ gui.pokemoneditor.cancelediting=%s canceled your editing.
 
 gui.overlay1v1.lv=Lv. 
 
-gui.starter.trademark1=This is a fan-made mod. All trademarks and copyright for Pokémon are owned
-gui.starter.trademark2=by Nintendo and Game Freak Inc.
-gui.starter.trademark3=Support Nintendo/Game Freak by buying Pokémon Sun/Moon.
-gui.starter.trademark4=Welcome to the world of Pokémon!! Thank you for installing this mod!
-gui.starter.trademark5=Now, please pick your desired starter Pokémon!
-gui.starter.comingsoon=Coming Soon...
-gui.starter.disabled=Disabled
+gui.starter.trademark1=To fanowski mod. Wszystkie znaki towarowe i prawa autorskie Pokémonów należą do
+gui.starter.trademark2= Nintendo and Game Freak Inc.
+gui.starter.trademark3=Wspomóż Nintendo/Game Freak kupując Pokémon Sun/Moon.
+gui.starter.trademark4=Witaj w świecie Pokémon!! Dziękujemy za instalację moda!
+gui.starter.trademark5=Teraz, proszę wybierz swojego upragnionego starterowego Pokémona!
+gui.starter.comingsoon=Wkrótce...
+gui.starter.disabled=Rozłączono
 
 gui.pc.box=Box: 
-gui.pc.releasewarning=Are you sure you want to release %s?
+gui.pc.releasewarning=Jesteś pewien, że chesz wypuścić %s?
 
-gui.selectpokemon.message=Select a Pokémon!
+gui.selectpokemon.message=Wybierz Pokémona!
 
-gui.update.text=Update
-gui.label.text=Label
-gui.save.text=Save
-gui.texture.text=Texture
-gui.cancel.text=Cancel
-gui.description.text=Description
+gui.update.text=Aktualizuj
+gui.label.text=Etykieta
+gui.save.text=Zapisz
+gui.texture.text=Tekstura
+gui.cancel.text=Anuluj
+gui.description.text=Opis
 gui.boss.text=Boss:
 
 gui.mail.seal=Seal letter
 gui.mail.close=Close letter
 
-gui.nursejoy.name=Nurse John
+gui.nursejoy.name=Pielęgniarz John
 gui.nursejoy.healing=Pozwól mi wyleczyć twoje Pokémony za ciebie!
-gui.nursejoy.full= Przepraszam. Nie mogę znależć dostępnego I can't find an available healer.==========================================================
+gui.nursejoy.full= Przepraszam. Nie mogę znależć dostępnej lecznicy.
 
 gui.shopkeeper.money=Pieniądze
 gui.shopkeeper.price=Cena
@@ -4692,16 +4692,16 @@ battlecontroller.sendout=%s wysyła %s!
 battlecontroller.switch=Wybierz, którego Pokémona chcesz wysłać!
 battlecontroller.targets=Wybierz cel dla $a.
 battlecontroller.win=Wygrałeś bitwę!
-battlecontroller.afktimer=Turn timer: 
+battlecontroller.afktimer=Włącz stoper: 
 battlecontroller.forfeitask=Czy chcesz zrezygnować z bitwy?
 battlecontroller.forfeit=%s zrezygnował z bitwy!
 battlecontroller.forfeitself=Zrezygnowałeśz bitwy.
 battlecontroller.draw=Bitwa została zakończona remisem.
 
-type.normal=Normalny
+type.normal= Normalny
 type.fire=Ogień
 type.water=Woda
-type.electric=Elektryczność
+type.electric=Elektryczny
 type.grass=Trawa
 type.ice=Lód
 type.fighting=Walka
@@ -4759,7 +4759,7 @@ sendpixelmon.retrieved=You retrieved %s!
 
 camera.error.samepokemon=You have already took a photo of this %s!
 
-spawn.legendarymessage=A Legendary has spawned in a %s biome!
+spawn.legendarymessageLegendarny Pokémon pojawił sie w biomie %s!
 
 @Author Dayaffe
 //Blocks
