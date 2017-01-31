@@ -4095,8 +4095,8 @@ pixelmon.abilities.whitesmoke=%s's White Smoke prevents stat loss!
 pixelmon.abilities.wonderguard=%s's Wonder Guard prevented the attack!
 
 //Breeding
-pixelmon.egg.name=Egg
-ability.Egg.name=Hatching
+pixelmon.egg.name=Jajo
+ability.Egg.name=Wykluwanie
 pixelmon.egg.hatching=Your Egg hatched into a %s!
 pixelmon.egg.hatchingan=Your Egg hatched into an %s!
 pixelmon.egg.hatchingdata=Slot: %s, Cycles: %s, Steps: %s
@@ -4135,9 +4135,9 @@ pixelmon.ranch.maxaffection=%s loves %s as much as possible!
 *   depending on what instance to call on.
 */
 gui.guiEvolve.huh=Huh?
-gui.guiEvolve.evolve=What? $p is evolving!
-gui.guiEvolve.done=Your $p evolved into a $n!
-gui.guiEvolve.cancel=Evolution canceled!
+gui.guiEvolve.evolve=Co? $p ewoluuje!
+gui.guiEvolve.done=Twój $p ewoluował w $n!
+gui.guiEvolve.cancel=Anuluj ewolucję!
 
 gui.guiItemDrops.beatBossPixelmon1=You beat a boss $p!
 gui.guiItemDrops.beatTrainer1=You beat a Trainer!
@@ -4146,77 +4146,77 @@ gui.guiItemDrops.mouse=Mouse over item
 gui.guiItemDrops.see=to see more
 gui.guiItemDrops.details=details
 
-gui.fainterChoice.noFight=$p can no longer fight.
-gui.fainterChoice.switch=Switch to another Pokémon
-gui.fainterChoice.run=Run
+gui.fainterChoice.noFight=$p Nie może dłużej walczyć.
+gui.fainterChoice.switch=Zmień na innego Pokémona
+gui.fainterChoice.run=Ucciekaj
 
-gui.guiDoctor.healPokemon=I'm a Pokémon doctor. Shall I heal your Pokémon?
-gui.guiDoctor.waiting=Waiting
+gui.guiDoctor.healPokemon=Jestem doktorem Pokémon. Mogę uleczyć twoje Pokémony?
+gui.guiDoctor.waiting=Czekanie
 
-gui.trading.ready=Ready
-gui.trading.notready=Not Ready
-gui.trading.want=$d wants to trade.
-gui.trading.nuf=No user found!
-gui.trading.trade=Trade
-gui.trading.select=Select a Pokémon.
+gui.trading.ready=Gotowy
+gui.trading.notready=Nie Gotowy
+gui.trading.want=$d chce się wymienić.
+gui.trading.nuf=Nie znaleziono użytkowników!
+gui.trading.trade=Wymiana
+gui.trading.select=Wybierz Pokémona.
 
 gui.pokedex.pokedex=Pokédex
-gui.pokedex.height=Height:
-gui.pokedex.weight=Weight:
-gui.pokedex.more=Options
-gui.pokedex.wiki=View Wiki
+gui.pokedex.height=Wzrosk:
+gui.pokedex.weight=Waga:
+gui.pokedex.more=Opcje
+gui.pokedex.wiki=Zobacz Wiki
 gui.pokedex.meters=m
 gui.pokedex.feet=ft.
 gui.pokedex.kilograms=kg
 gui.pokedex.pounds=lbs.
 
-gui.pokedexoptions.done=Done
-gui.pokedexoptions.options=Pokédex Options
-gui.pokedexoptions.metric=Metric
+gui.pokedexoptions.done=Gotowe
+gui.pokedexoptions.options=Opcje Pokédexu
+gui.pokedexoptions.metric=Miara
 gui.pokedexoptions.imperial=Imperial/US Customary
 
-gui.yesno.trade=Would you like to trade your $e for my $o?
-gui.yesno.yes=Yes
-gui.yesno.no=No
-gui.yesno.yousure=Do you want to give up learning $m?
-gui.yesno.replace=Are you sure you want to replace $m with $nm?
+gui.yesno.trade=Chciałbyś wymienić twojego $e za mojego $o?
+gui.yesno.yes=Tak
+gui.yesno.no=Nie
+gui.yesno.yousure=Czy chcesz zrezygnować z nauczenia $m?
+gui.yesno.replace=Czy jesteś pewien, że chcesz zastąpić $m $nm?
 
-gui.replaceattack.effect=Effect
-gui.replaceattack.power=Power
-gui.replaceattack.accuracy=Accuracy
+gui.replaceattack.effect=Efekt
+gui.replaceattack.power=Siła
+gui.replaceattack.accuracy=Celność
 
-gui.acceptdeny.accept=Accept
-gui.acceptdeny.deny=Decline
-gui.acceptdeny.single=Single Battle
-gui.acceptdeny.double=Double Battle
-gui.acceptdeny.invaliddouble=%s doesn't have enough Pokémon to be in a double battle!
+gui.acceptdeny.accept=Akceptuj
+gui.acceptdeny.deny=Zrezygnoj
+gui.acceptdeny.single=Pojedyńcza Bitwa
+gui.acceptdeny.double=Podwójna Bitwa
+gui.acceptdeny.invaliddouble=%s nie ma wystarczająco Pokémonów by być w podwójnej bitwie!
 
-gui.renamePoke.Reset=Reset
-gui.renamePoke.cancel=Cancel
-gui.renamePoke.renamebutton=Rename
-gui.renamePoke.renamePokemon=Rename Pokémon
+gui.renamePoke.Reset=Resetuj
+gui.renamePoke.cancel=Anuluj
+gui.renamePoke.renamebutton=Zmmień Nazwę
+gui.renamePoke.renamePokemon=Zmmień Nazwę Pokémona
 
-gui.screenpokechecker.moves=Moves
-gui.screenpokechecker.stats=Stats
-gui.screenpokechecker.rename=Rename
-gui.screenpokechecker.lvl=Lvl:
-gui.screenpokechecker.number=No.
+gui.screenpokechecker.moves=Ruchy
+gui.screenpokechecker.stats=Statystyki
+gui.screenpokechecker.rename=Zmmień Nazwę
+gui.screenpokechecker.lvl=PZ:
+gui.screenpokechecker.number=Nr.
 gui.screenpokechecker.status=Status
-gui.screenpokechecker.fainted=*FAINTED*
-gui.screenpokechecker.texp=Experience
-gui.screenpokechecker.levelup=Level Up
-gui.screenpokechecker.summary=Summary
-gui.screenpokechecker.ot=Original Trainer
-gui.screenpokechecker.ability=Ability
-gui.screenpokechecker.happiness=Happiness
-gui.screenpokechecker.nature=Nature
-gui.screenpokechecker.growth=Growth
-gui.screenpokechecker.forget1=Are you sure you'd like
-gui.screenpokechecker.forget2=$p to forget
-gui.screenpokechecker.disable=disable
-gui.screenpokechecker.enable=enable
-gui.screenpokechecker.move=to $a leveling?
-gui.screenpokechecker.effects=Effects
+gui.screenpokechecker.fainted=*Omdlony*
+gui.screenpokechecker.texp=Doświadczenie
+gui.screenpokechecker.levelup=Podnieś Poziom
+gui.screenpokechecker.summary=Podsumowanie
+gui.screenpokechecker.ot=Oryginalny Trener
+gui.screenpokechecker.ability=Zdolności
+gui.screenpokechecker.happiness=Szczęście
+gui.screenpokechecker.nature=Natura
+gui.screenpokechecker.growth=Wielkość
+gui.screenpokechecker.forget1=Czy na pewno chcesz
+gui.screenpokechecker.forget2=zapomnieć $p
+gui.screenpokechecker.disable=wyłącz
+gui.screenpokechecker.enable=włącz
+gui.screenpokechecker.move=to $a leveling?============================================================================
+gui.screenpokechecker.effects=Efekty
 
 gui.pixelmonspawner.fireontick=Fire on Tick
 gui.pixelmonspawner.fireonredstone=Fire on Redstone
@@ -4237,23 +4237,23 @@ gui.pixelmonspawner.spawnlocation=Spawn Location
 gui.creativeinv.fainted=Omdlony
 gui.creativeinv.hp=PŻ
 
-gui.trainereditor.edit=Edit
-gui.trainereditor.more=More
-gui.trainereditor.trainereditor=Trainer Editor
-gui.trainereditor.bosstype=Boss Type
+gui.trainereditor.edit=Edytuj
+gui.trainereditor.more=Więcej
+gui.trainereditor.trainereditor=Edytor Trenera
+gui.trainereditor.bosstype=Typ Boss'a
 gui.trainereditor.aimode=Movement AI
 gui.trainereditor.battleaimode=Battle AI
 gui.trainereditor.encountermode=Encounter Mode
 gui.trainereditor.battletype=Battle Type
-gui.trainereditor.name=Name
+gui.trainereditor.name=Imię
 gui.trainereditor.model=Model
-gui.trainereditor.lvl=Lvl
-gui.trainereditor.additem=Add Item
-gui.trainereditor.moreinfo=Trainer Editor - More Info
-gui.trainereditor.greeting=Greeting
-gui.trainereditor.win=Win
-gui.trainereditor.lose=Lose
-gui.trainereditor.winmoney=Win Money
+gui.trainereditor.lvl=PZ
+gui.trainereditor.additem=Dodaj Przedmiot
+gui.trainereditor.moreinfo=Edytor Trenera - Więcej Info
+gui.trainereditor.greeting=Powitanie
+gui.trainereditor.win=Zwycięstwo
+gui.trainereditor.lose=Przegrana
+gui.trainereditor.winmoney=Wygraj Pieniądze
 gui.trainereditor.winningdrops=Winning Drops
 gui.trainereditor.adddrops=Add Drops
 gui.trainereditor.enteritemname=Enter Item Name or ID
@@ -4719,45 +4719,45 @@ type.fairy=Wróżka
 
 aitargetenvironment.seessomething=Twój Pokémon coś widzi.
 
-batonpass.failed=But it failed!
-batonpass.pass=%s passes a baton!
-batonpass.noleft=There are no Pokémon left to switch to!
+batonpass.failed=Ale to się nie udaje!
+batonpass.pass=%s passes a baton!=================================================================================
+batonpass.noleft=Nie masz już Pokémonów, które możesz zmienić!
 
-teleport.away=%s teleported away!
+teleport.away=%s się teleportował!
 
-applyperish.heard=%s heard the Perish Song!
-applyperish.already=%s has already heard the song!
+applyperish.heard=%s usłyszał Ponurą Pieśń!
+applyperish.already=%s już słyszał tą pieśń!
 
-playerparticipant.enough=That's enough %s!
-playerparticipant.withdrew=%s withdrew %s!
-playerparticipant.go=Go %s!
-playerparticipant.load=Couldn't load Pokémon's moves!
+playerparticipant.enough=Wystarczy %s!
+playerparticipant.withdrew=%s wycofuje %s!
+playerparticipant.go=Dalej %s!
+playerparticipant.load=Nie może wczytać ruchów Pokémona!
 
-multiplehit.times=%s attacked %d times!
+multiplehit.times=%s zatakował %d razy!
 
-recoil.damage=%s took recoil damage!
+recoil.damage=%s dostał rykoszetem!
 
 battlequery.declined=%s declined the battle!
 
-command.battle.battlebetween=Battle between %s and %s started!
+command.battle.battlebetween=Bitwa pomiędzy %s i %s się rozpoczeła!
 
-bagpacket.itemnotfound=Item could not be found!
-bagpacket.battlenotfound=Battle could not be found!
+bagpacket.itemnotfound=Nie znaleciono przedmiotu!
+bagpacket.battlenotfound=Nie znaleziono bitwy!
 
-deletemove.forgot=Your %s forgot %s!
+deletemove.forgot=Twój %s zapomniał %s!
 
-replacemove.replace=Your %s forgot %s and learned %s!
+replacemove.replace=Twój %s zapomniał %s i nauczył się %s!
 
-externalMove.forage.name=Forage
+externalMove.forage.name=Szukanie
 
-externalMove.Cut.fail=%s isn't strong enough to cut that down!
+externalMove.Cut.fail=%s nie jest wystarczająco się by to ściąć!
 
-sendpixelmon.sentout=You sent out %s!
-sendpixelmon.cantbattle=%s is unable to battle!
-sendpixelmon.inbattle=%s is in a battle!
-sendpixelmon.retrieved=You retrieved %s!
+sendpixelmon.sentout=Wysyłasz %s!
+sendpixelmon.cantbattle=%s jest niezdolny do walki !
+sendpixelmon.inbattle=%s walczy!
+sendpixelmon.retrieved=Otrzymujesz %s!
 
-camera.error.samepokemon=You have already took a photo of this %s!
+camera.error.samepokemon=Już zrobiłeś zdjęcie %s!
 
 spawn.legendarymessageLegendarny Pokémon pojawił sie w biomie %s!
 
