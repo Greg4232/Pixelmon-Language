@@ -4148,7 +4148,7 @@ gui.guiItemDrops.details=details
 
 gui.fainterChoice.noFight=$p Nie może dłużej walczyć.
 gui.fainterChoice.switch=Zmień na innego Pokémona
-gui.fainterChoice.run=Ucciekaj
+gui.fainterChoice.run=Uciekaj
 
 gui.guiDoctor.healPokemon=Jestem doktorem Pokémon. Mogę uleczyć twoje Pokémony?
 gui.guiDoctor.waiting=Czekanie
@@ -4186,7 +4186,7 @@ gui.replaceattack.power=Siła
 gui.replaceattack.accuracy=Celność
 
 gui.acceptdeny.accept=Akceptuj
-gui.acceptdeny.deny=Zrezygnoj
+gui.acceptdeny.deny=Zrezygnuj
 gui.acceptdeny.single=Pojedyńcza Bitwa
 gui.acceptdeny.double=Podwójna Bitwa
 gui.acceptdeny.invaliddouble=%s nie ma wystarczająco Pokémonów by być w podwójnej bitwie!
@@ -4204,7 +4204,7 @@ gui.screenpokechecker.number=Nr.
 gui.screenpokechecker.status=Status
 gui.screenpokechecker.fainted=*Omdlony*
 gui.screenpokechecker.texp=Doświadczenie
-gui.screenpokechecker.levelup=Podnieś Poziom
+gui.screenpokechecker.levelup=Do Następnego Poziomu
 gui.screenpokechecker.summary=Podsumowanie
 gui.screenpokechecker.ot=Oryginalny Trener
 gui.screenpokechecker.ability=Zdolności
@@ -4325,7 +4325,7 @@ gui.pokemoneditor.cancelediting=%s canceled your editing.
 
 gui.overlay1v1.lv=Lv. 
 
-gui.starter.trademark1=To fanowski mod. Wszystkie znaki towarowe i prawa autorskie Pokémonów należą do
+gui.starter.trademark1=To fanowski mod. Wszystkie znaki towarowe i prawa autorskie Pokémon należą do
 gui.starter.trademark2= Nintendo and Game Freak Inc.
 gui.starter.trademark3=Wspomóż Nintendo/Game Freak kupując Pokémon Sun/Moon.
 gui.starter.trademark4=Witaj w świecie Pokémon!! Dziękujemy za instalację moda!
@@ -4485,7 +4485,7 @@ gui.choosebag.battleitems=Battle Items
 gui.choosebag.nopokeballs=Nie możesz użyć Poké Balli w tej walce!
 gui.choosebag.multiple=Nie możesz użyć Poké Balli jeśli jest wiele Pokémonów przeciwko tobie!
 
-gui.choosepokemon.select=Wybierz Pokémona aby go użyć to use it on.
+gui.choosepokemon.select=Wybierz Pokémona aby go użyć.
 gui.choosepokemon.sendout=Wybierz Pokémona aby go odesłać.
 
 gui.npctrader.their=Daje Pokémona
@@ -4752,10 +4752,10 @@ externalMove.forage.name=Szukanie
 
 externalMove.Cut.fail=%s nie jest wystarczająco się by to ściąć!
 
-sendpixelmon.sentout=Wysyłasz %s!
-sendpixelmon.cantbattle=%s jest niezdolny do walki !
+sendpixelmon.sentout=Dalej %s!
+sendpixelmon.cantbattle=%s jest niezdolny do walki!
 sendpixelmon.inbattle=%s walczy!
-sendpixelmon.retrieved=Otrzymujesz %s!
+sendpixelmon.retrieved=%s powrót!
 
 camera.error.samepokemon=Już zrobiłeś zdjęcie %s!
 
